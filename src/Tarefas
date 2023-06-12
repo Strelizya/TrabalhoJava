@@ -1,0 +1,37 @@
+O objetivo principal do seu sistema é ser um CRUD básico:
+    ● Adicionar um novo item
+    ● Listar/filtrar os itens
+    ● Atualizar um item
+    ● Apagar um item
+
+Requisitos
+    Os seguintes requisitos devem ser cumpridos em seu projeto.
+
+    ● Classes: Seu programa deverá apresentar no mínimo 5 arquivos (considerando classes/interfaces/enums, etc…).
+        -enum (Tipo de quarto)
+        -class (Conexão)
+        -class (Menu)
+        -Inferface ()
+        -Lista, etc...
+
+    ● Atributos: Os itens que seu projeto vai gerenciar (por exemplo livros) devem possuir ao menos 5 atributos.
+        -Quarto, reservas, PESSOA
+
+    ● Herança/Interface: Seu projeto deve apresentar ao menos uma herança ou interface.
+
+  OK?  ● Enumeração: Seu projeto deve apresentar e utilizar ao menos uma enumeração. Essa enumeração deve possuir ao menos 2 atributos.
+
+    ● Cadastrar: Seu projeto deve permitir adicionar um item novo aos seus itens armazenados.
+
+    ● Listar/Filtrar: Seu projeto deve permitir listar todos os itens armazenados ou filtrar eles por alguma condição. Por exemplo, mostrar
+    apenas os filmes cadastrados para menores de 18 anos. Lembrando que os dados presentes na enumeração também devem aparecer de alguma
+    maneira.
+
+    ● Atualizar: Seu programa deve permitir que o usuário altere os dados de algum item cadastrado.
+
+    ● Remover: Esse programa também deve permitir que itens sejam apagados.
+
+    ● Armazenamento: Os itens devem ser salvos em um arquivo texto ou em um banco de dados. Assim, quando o programa for reaberto, as
+    informações cadastradas ainda estarão mantidas nele.
+
+    ● Menu: Deve existir um menu para que o usuário possa acessar as funcionalidades do programa.
